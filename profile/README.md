@@ -8,7 +8,7 @@ We are a healthcare technology organization focused on improving patient outcome
 
 
 ## 1. Helth. server (Backend repository, FHIR Server with Google Cloud Healthcare API)
-Our FHIR Server with Google Cloud Healthcare API, hosted on a google cloud *AMD VM instance* is a backend for the FHIR-based client application, allowing it to store and retrieve data from the cloud. The server makes use of the Healthcare API offered by Google Cloud Platform (GCP) to provide a secure and scalable solution for managing patient data.
+Our FHIR Server with Google Cloud Healthcare API, hosted on a google cloud **AMD VM instance** is a backend for the FHIR-based client application, allowing it to store and retrieve data from the cloud. The server makes use of the Healthcare API offered by Google Cloud Platform (GCP) to provide a secure and scalable solution for managing patient data.
 
 Objective: There is a lack of interoperability and availability of medical resources across institutions and even different departments of the same institution in the healthcare industry. The server is built as a proof of concept to tackle these issues by exposing an API which uses powerful queries using the Healthcare API nodejs library to expose ready-made endpoints that are made to fit the issues at hand.
 
